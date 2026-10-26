@@ -1,0 +1,17 @@
+Critério                                                                     Peso
+
+---------------------------------------------------------------------------  ----
+
+A. A interface de terminal aciona todo o fluxo do sistema sem problemas         2
+
+B. A interface gráfica aciona todo o fluxo do sistema sem problemas             2
+
+C. O modelo está separado da interface (a lógica do sistema não depende         2
+
+   da interface e vice-versa)
+
+D. As regras do domínio estão corretas                                          4
+
+---------------------------------------------------------------------------  ----
+
+Total                                                                          10

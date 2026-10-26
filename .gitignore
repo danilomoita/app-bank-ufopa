@@ -1,0 +1,53 @@
+# Bytecode e caches.
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais.
+.venv/
+venv/
+env/
+ENV/
+.Python
+
+# Dados bancários locais e testes manuais, em qualquer pasta.
+bank.json
+bank_test.json
+bank-test.json
+bank.test.json
+
+# Configurações locais; exemplos podem ser compartilhados.
+.env
+.env.*
+!.env.example
+
+# Distribuições e metadados.
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Testes, cobertura e análise.
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.hypothesis/
+.tox/
+.nox/
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+
+# Configurações pessoais de editores.
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Arquivos temporários e do sistema.
+*.log
+.DS_Store
+Thumbs.db
+Desktop.ini
